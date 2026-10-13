@@ -32,7 +32,7 @@ todo-app/
 ## 🖥️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/neelarghya09-lab.github.io.
    
 2.Open the folder in VS Code (or any editor).
 
