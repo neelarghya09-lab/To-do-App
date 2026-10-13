@@ -42,7 +42,7 @@ todo-app/
 
 🌐 Live Demo
 If deployed with GitHub Pages, the app will be available at:
-https://your-username.github.io/todo-app/
+https://neelarghya09-lab.github.io/To-do-App/
 
 📸 Screenshots:
 
